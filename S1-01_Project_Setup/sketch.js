@@ -2,7 +2,7 @@
 //set and display the frame rate of the rendering system,
 //and use text that shows the frame count and rate on our screen.
 
-//Initialization function
+//Initialization function 
 function setup() {
   //Set the size of rendering window in pixels
   createCanvas(800, 800);
