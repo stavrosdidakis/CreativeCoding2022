@@ -201,14 +201,14 @@ This sketch extends the bouncing ball example and displays multiple objects that
 ---
 
 ### S5-05_Plexus
-x
+
 
 <img src="images/S5-05_Plexus.png" width="500"/>
 
 ---
 
 ### S5-06_PlexusInteractive
-x
+
 
 <img src="images/S5-06_PlexusInteractive.png" width="500"/>
 
