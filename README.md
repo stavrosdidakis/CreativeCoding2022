@@ -1,6 +1,6 @@
 # Creative Coding Examples 2022
 
-A collection of creative coding sketches created in P5.js. The purpose of this collection is to introduce to artists and designers coding examples based on the JavaScript library P5.js. The examples introduce fundamental coding concepts and techniques, as they are necessary in understanding how to use code as a medium for creating art and design works. In addition to the technical analysis the code examples have, the user may also find certain methods to enhance creative conception and implementation.
+A collection of creative coding sketches created in P5.js. The purpose of this collection is to introduce to artists and designers coding examples based on the JavaScript library P5.js. The examples introduce fundamental coding concepts and techniques (environment, console, variables, conditionals, loops, arrays, objects, and more). A main consideration is to view the development objectives as an interdisciplinary process that combines computational processes with design principles and compositional aesthetics.
 
 ---
 
