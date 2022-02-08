@@ -201,14 +201,14 @@ This sketch extends the bouncing ball example and displays multiple objects that
 ---
 
 ### S5-05_Plexus
-
+In this project, we generate a list of particles that flow around the screen. If the distance of each particle is within a certain boundary, a line will be drawn from the particle to all the others that are within this range. The example makes use of the function splice() to insert the values of the class objects into each instance of the class, and check on the distance between each object against a class instance.
 
 <img src="images/S5-05_Plexus.png" width="500"/>
 
 ---
 
 ### S5-06_PlexusInteractive
-
+This example extends S5-05_Plexus and demonstrates a case in which the user can generate the particles by clicking the mouse. Moreover, a motion fading process is applied to create an ethereal aesthetic.
 
 <img src="images/S5-06_PlexusInteractive.png" width="500"/>
 
